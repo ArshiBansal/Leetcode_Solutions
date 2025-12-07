@@ -1,3 +1,4 @@
+import java.util.Arrays;
 class Solution {
     public int maxSumDivThree(int[] nums) {
         // dp[i] will store the maximum sum with remainder i when divided by 3
