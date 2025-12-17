@@ -1,4 +1,5 @@
 import java.util.*;
+class Solution {
     public int countTrapezoids(int[][] points) {
         final long MOD = 1_000_000_007L;
 
