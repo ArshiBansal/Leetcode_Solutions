@@ -1,3 +1,5 @@
+import java.util.HashSet;
+import java.util.Set;
 class Solution {
     public int longestBalanced(int[] nums) {
         int n = nums.length;
