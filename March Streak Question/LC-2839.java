@@ -1,3 +1,4 @@
+import java.util.Arrays;
 class Solution {
     public boolean canBeEqual(String s1, String s2) {
         String group1_s1 = "" + s1.charAt(0) + s1.charAt(2);
