@@ -1,3 +1,4 @@
+import java.util.Arrays;
 class Solution {
     public boolean checkStrings(String s1, String s2) {
         int n = s1.length();
